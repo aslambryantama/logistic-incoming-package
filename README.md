@@ -15,6 +15,6 @@ Here is a sneak peek for the dashboard view :
 
 For now, we can't provide the full access to the Google Data Studio Dashboard, because it is now used as a private and only those who have authority can access the dashboard.
 
-> This project is intended as an example for other analysts who want to create similar projects in their respective areas
+>This project is intended as an example for other analysts who want to create similar projects in their respective areas
 
 ## Thank you
