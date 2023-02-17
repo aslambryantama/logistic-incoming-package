@@ -10,8 +10,11 @@ The data used for this dashboard is collected from a central web application whi
 
 Once the data is cleaned up and ready for use, the next step is to create a dashboard to monitor the incoming packages. Google Data Studio will be used to create the dashboard. It will be used to create interactive visualizations, such as charts, tables, and maps. These visualizations will give an overview of the incoming packages and help to identify trends and patterns. 
 
+Here is a sneak peek for the dashboard view :
 ![App interface](/resources/blurin.jpg)
 
-For now, we can't provide the link to the dashboard, because it is private and only those who have authority can access the dashboard.
+For now, we can't provide the full access to the Google Data Studio Dashboard, because it is now used as a private and only those who have authority can access the dashboard.
+
+> This project is intended as an example for other analysts who want to create similar projects in their respective areas
 
 ## Thank you
